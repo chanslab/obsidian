@@ -1,0 +1,429 @@
+{
+  "main": {
+    "id": "13ccb61d7a3ca3f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "52ab28b73c18a66f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d8a53c2ea14795a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/COT- 추론 과정을 단계별로 생성하도록 유도하는 프로프트 엔지니어링.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COT- 추론 과정을 단계별로 생성하도록 유도하는 프로프트 엔지니어링"
+            }
+          },
+          {
+            "id": "9ef345633f1a375c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/Cot, ReAct, ToT - AI 모델의 추론 능력을 극대화 하기 위한 프롬프트 엔지니어링.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cot, ReAct, ToT - AI 모델의 추론 능력을 극대화 하기 위한 프롬프트 엔지니어링"
+            }
+          },
+          {
+            "id": "8d35334b9ddda5eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/컨텍스트엔지니어링-프롬프트엔지니어링보다 한단계 더 나아간 개념.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "컨텍스트엔지니어링-프롬프트엔지니어링보다 한단계 더 나아간 개념"
+            }
+          },
+          {
+            "id": "ac6489719b9746ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Permenent/Devil's Advocate - 일부러 반대 의견을 제시해서 논리적 허점, 위험요소 등을 검토하는 역할.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Devil's Advocate - 일부러 반대 의견을 제시해서 논리적 허점, 위험요소 등을 검토하는 역할"
+            }
+          },
+          {
+            "id": "aad193c441d7a0ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/Grounded Q&A - 신뢰할 수 있는 외부 소스를 근거(Grounding)로 삼아 답변하는 방식.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grounded Q&A - 신뢰할 수 있는 외부 소스를 근거(Grounding)로 삼아 답변하는 방식"
+            }
+          },
+          {
+            "id": "2044aca18d2737c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/ML정규화-모델이 훈련 데이터에 너무 과하게 적합할때 해결하는 기법.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ML정규화-모델이 훈련 데이터에 너무 과하게 적합할때 해결하는 기법"
+            }
+          },
+          {
+            "id": "90f400193ae6c092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/MoE-하나의 모델을 여러 전문가 모델로 나누어 필요시에 활성화 시키는 구조의 AI모델.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MoE-하나의 모델을 여러 전문가 모델로 나누어 필요시에 활성화 시키는 구조의 AI모델"
+            }
+          },
+          {
+            "id": "18b39177182fbc8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Literature/Ollama-사용자의 로컬 환경에 LLM을 쉽게 쓰게해주는 오픈 소스.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ollama-사용자의 로컬 환경에 LLM을 쉽게 쓰게해주는 오픈 소스"
+            }
+          },
+          {
+            "id": "68de86d6ec66b1b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/ML정규화-모델이 훈련 데이터에 너무 과하게 적합할때 해결하는 기법.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ML정규화-모델이 훈련 데이터에 너무 과하게 적합할때 해결하는 기법"
+            }
+          },
+          {
+            "id": "c5a2ecd3c6d97f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Literature/내적(Inner Product)-두 벡터를 곱해 스칼라(실수) 값을 만들어내는 연산.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "내적(Inner Product)-두 벡터를 곱해 스칼라(실수) 값을 만들어내는 연산"
+            }
+          },
+          {
+            "id": "8884d4c62ec21497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Literature/내적(Inner Product)-두 벡터를 곱해 스칼라(실수) 값을 만들어내는 연산.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "내적(Inner Product)-두 벡터를 곱해 스칼라(실수) 값을 만들어내는 연산"
+            }
+          },
+          {
+            "id": "8dbb4d5c398daece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/콘웨이의 법칙-어떤 조직의 소프트웨어 구조는 그 조직의 의사소통 구조를 반영한다.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "콘웨이의 법칙-어떤 조직의 소프트웨어 구조는 그 조직의 의사소통 구조를 반영한다"
+            }
+          },
+          {
+            "id": "53792fd9f4179c08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/커머디티화-제품이나 서비스가 상향평준화 되고 가격으로 경쟁한다.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "커머디티화-제품이나 서비스가 상향평준화 되고 가격으로 경쟁한다"
+            }
+          },
+          {
+            "id": "1112bf4f48e7ad0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/클래스 불균형-머신러닝시 데이터의 양이 현저하게 차이가 나는 상태.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "클래스 불균형-머신러닝시 데이터의 양이 현저하게 차이가 나는 상태"
+            }
+          },
+          {
+            "id": "17bcb251d2300ea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/SMOTE-데이터불균형 해결을 위한 오버샘플링 기법.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SMOTE-데이터불균형 해결을 위한 오버샘플링 기법"
+            }
+          }
+        ],
+        "currentTab": 14
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "020f713309186552",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffe542839c2dd104",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3877d5011c985e85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "b4bf344d6723e7e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "0dfe8af5516fa927",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 473.5
+  },
+  "right": {
+    "id": "3958087ae215a102",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b18f8289bc524fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "571548cef8647314",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_Inbox/내적(Inner Product)-두 벡터를 이용해 스칼라(실수) 값을 만들어내는 연산.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "내적(Inner Product)-두 벡터를 이용해 스칼라(실수) 값을 만들어내는 연산 의 백링크"
+            }
+          },
+          {
+            "id": "f377dee132fe89dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_Inbox/내적(Inner Product)-두 벡터를 이용해 스칼라(실수) 값을 만들어내는 연산.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "내적(Inner Product)-두 벡터를 이용해 스칼라(실수) 값을 만들어내는 연산 의 나가는 링크"
+            }
+          },
+          {
+            "id": "919cab1530952221",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "6f829dcc193d9ead",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "62bedaee842f5ad3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_Inbox/내적(Inner Product)-두 벡터를 이용해 스칼라(실수) 값을 만들어내는 연산.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "내적(Inner Product)-두 벡터를 이용해 스칼라(실수) 값을 만들어내는 연산 의 개요"
+            }
+          },
+          {
+            "id": "756d7a6dc3af262c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "8122e13c38f955c1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "17bcb251d2300ea1",
+  "lastOpenFiles": [
+    "00_Inbox/클래스 불균형-머신러닝시 데이터의 양이 현저하게 차이가 나는 상태.md",
+    "00_Inbox/SMOTE-데이터불균형 해결을 위한 오버샘플링 기법.md",
+    "00_Inbox/커머디티화-제품이나 서비스가 상향평준화 되고 가격으로 경쟁한다.md",
+    "00_Inbox/콘웨이의 법칙-어떤 조직의 소프트웨어 구조는 그 조직의 의사소통 구조를 반영한다.md",
+    "01_Literature/내적(Inner Product)-두 벡터를 곱해 스칼라(실수) 값을 만들어내는 연산.md",
+    "01_Literature/외적(Outer Product)-두 벡터를 곱해 새로운 벡터를 만드는 연산.md",
+    "00_Inbox/2026-04-12.md",
+    "01_Literature/ML정규화-모델이 훈련 데이터에 너무 과하게 적합할때 해결하는 기법.md",
+    "01_Literature/Overfitting-ML모델이 훈련 데이터에 너무 과하게 맞춰져 새로운 데이터가 들어왔을때 제대로 된 예측을 하지 못하는 상태.md",
+    "02_Permenent/Ollama-사용자의 로컬 환경에 LLM을 쉽게 쓰게해주는 오픈 소스.md",
+    "01_Literature/MoE-하나의 모델을 여러 전문가 모델로 나누어 필요시에 활성화 시키는 구조의 AI모델.md",
+    "01_Literature/Cot, ReAct, ToT - AI 모델의 추론 능력을 극대화 하기 위한 프롬프트 엔지니어링.md",
+    "01_Literature/K-Fold Cross Validation - 데이터가 부족하거나 과적합되는 문제 해결.md",
+    "01_Literature/Grounded Q&A - 신뢰할 수 있는 외부 소스를 근거(Grounding)로 삼아 답변하는 방식.md",
+    "02_Permenent/Devil's Advocate - 일부러 반대 의견을 제시해서 논리적 허점, 위험요소 등을 검토하는 역할.md",
+    "01_Literature/컨텍스트엔지니어링-프롬프트엔지니어링보다 한단계 더 나아간 개념.md",
+    "01_Literature/COT- 추론 과정을 단계별로 생성하도록 유도하는 프로프트 엔지니어링.md",
+    "99_Attachment",
+    "무제.md",
+    "02_Permenent",
+    "01_Literature",
+    "00_Inbox"
+  ]
+}
