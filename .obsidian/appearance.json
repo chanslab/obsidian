@@ -1,4 +1,6 @@
 {
   "cssTheme": "Blue Topaz",
-  "theme": "system"
+  "theme": "system",
+  "floatingNavigation": false,
+  "baseFontSize": 15
 }
