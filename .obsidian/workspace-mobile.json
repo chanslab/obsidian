@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "01_Literature/Overfitting-ML모델이 훈련 데이터에 너무 과하게 맞춰져 새로운 데이터가 들어왔을때 제대로 된 예측을 하지 못하는 상태.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -181,12 +181,13 @@
   },
   "active": "466c31787d03087b",
   "lastOpenFiles": [
+    "00_Inbox/인지 편향 - 생존을 위한 뇌의 진화로서의 체계적인 사고의 오류.md",
+    "01_Literature/Overfitting-ML모델이 훈련 데이터에 너무 과하게 맞춰져 새로운 데이터가 들어왔을때 제대로 된 예측을 하지 못하는 상태.md",
     "02_Permenent/페르소나- 가면, 외적 인격 이나 가상의 타인.md",
     "02_Permenent/스노비즘-속물근성.md",
     "02_Permenent/더닝 크루거 효과-능력이 없는 사람은 자신의 무능함을 깨닫는 능력조차 부족하다.md",
     "02_Permenent/gRPC-구글이 개발한 고성능 RPC.md",
     "02_Permenent/QR코드-찍어라 연결하게.md",
-    "00_Inbox/인지 편향 - 생존을 위한 뇌의 진화로서의 체계적인 사고의 오류.md",
     "00_Inbox/mTLS -서로의 신원을 동시에 확인하는 보안 방식.md",
     "/02_Permenent/페르소나- 가면, 외적 인격 이나 가상의 타인.md",
     "/02_Permenent/스노비즘-속물근성.md",
@@ -206,7 +207,6 @@
     "00_Inbox/SMOTE-데이터불균형 해결을 위한 오버샘플링 기법.md",
     "00_Inbox/2026-04-12.md",
     "00_Inbox/무제.base",
-    "01_Literature/Overfitting-ML모델이 훈련 데이터에 너무 과하게 맞춰져 새로운 데이터가 들어왔을때 제대로 된 예측을 하지 못하는 상태.md",
     "Readme.md",
     "02_Permenent/Ollama-사용자의 로컬 환경에 LLM을 쉽게 쓰게해주는 오픈 소스.md",
     "02_Permenent/Devil's Advocate - 일부러 반대 의견을 제시해서 논리적 허점, 위험요소 등을 검토하는 역할.md",
