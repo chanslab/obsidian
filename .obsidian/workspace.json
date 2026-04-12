@@ -4,221 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "52ab28b73c18a66f",
+        "id": "77686e42b090e061",
         "type": "tabs",
         "children": [
           {
-            "id": "2d8a53c2ea14795a",
+            "id": "0aa9be27d5c7cae2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/COT- 추론 과정을 단계별로 생성하도록 유도하는 프로프트 엔지니어링.md",
+                "file": "02_Permenent/페르소나- 가면, 외적 인격 이나 가상의 타인.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COT- 추론 과정을 단계별로 생성하도록 유도하는 프로프트 엔지니어링"
+              "title": "페르소나- 가면, 외적 인격 이나 가상의 타인"
             }
           },
           {
-            "id": "9ef345633f1a375c",
+            "id": "0914d3b45e9c4ace",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/Cot, ReAct, ToT - AI 모델의 추론 능력을 극대화 하기 위한 프롬프트 엔지니어링.md",
+                "file": "02_Permenent/QR코드-찍어라 연결하게.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cot, ReAct, ToT - AI 모델의 추론 능력을 극대화 하기 위한 프롬프트 엔지니어링"
+              "title": "QR코드-찍어라 연결하게"
             }
           },
           {
-            "id": "8d35334b9ddda5eb",
+            "id": "3ba01af2b8dab43b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/컨텍스트엔지니어링-프롬프트엔지니어링보다 한단계 더 나아간 개념.md",
+                "file": "00_Inbox/MSA Pattern - 하나의 애플리케이션을 작고 독립적인 서비스로 나누어 개발 운영하는 설계 방식.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "컨텍스트엔지니어링-프롬프트엔지니어링보다 한단계 더 나아간 개념"
+              "title": "MSA Pattern - 하나의 애플리케이션을 작고 독립적인 서비스로 나누어 개발 운영하는 설계 방식"
             }
           },
           {
-            "id": "ac6489719b9746ce",
+            "id": "0cb812e3dd9ab6ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Permenent/Devil's Advocate - 일부러 반대 의견을 제시해서 논리적 허점, 위험요소 등을 검토하는 역할.md",
+                "file": "02_Permenent/gRPC-구글이 개발한 고성능 RPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Devil's Advocate - 일부러 반대 의견을 제시해서 논리적 허점, 위험요소 등을 검토하는 역할"
+              "title": "gRPC-구글이 개발한 고성능 RPC"
             }
           },
           {
-            "id": "aad193c441d7a0ee",
+            "id": "f64d36fbf857daf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/Grounded Q&A - 신뢰할 수 있는 외부 소스를 근거(Grounding)로 삼아 답변하는 방식.md",
+                "file": "00_Inbox/mTLS -서로의 신원을 동시에 확인하는 보안 방식.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grounded Q&A - 신뢰할 수 있는 외부 소스를 근거(Grounding)로 삼아 답변하는 방식"
-            }
-          },
-          {
-            "id": "2044aca18d2737c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/ML정규화-모델이 훈련 데이터에 너무 과하게 적합할때 해결하는 기법.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ML정규화-모델이 훈련 데이터에 너무 과하게 적합할때 해결하는 기법"
-            }
-          },
-          {
-            "id": "90f400193ae6c092",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/MoE-하나의 모델을 여러 전문가 모델로 나누어 필요시에 활성화 시키는 구조의 AI모델.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MoE-하나의 모델을 여러 전문가 모델로 나누어 필요시에 활성화 시키는 구조의 AI모델"
-            }
-          },
-          {
-            "id": "18b39177182fbc8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Literature/Ollama-사용자의 로컬 환경에 LLM을 쉽게 쓰게해주는 오픈 소스.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ollama-사용자의 로컬 환경에 LLM을 쉽게 쓰게해주는 오픈 소스"
-            }
-          },
-          {
-            "id": "68de86d6ec66b1b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/ML정규화-모델이 훈련 데이터에 너무 과하게 적합할때 해결하는 기법.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ML정규화-모델이 훈련 데이터에 너무 과하게 적합할때 해결하는 기법"
-            }
-          },
-          {
-            "id": "c5a2ecd3c6d97f5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Literature/내적(Inner Product)-두 벡터를 곱해 스칼라(실수) 값을 만들어내는 연산.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "내적(Inner Product)-두 벡터를 곱해 스칼라(실수) 값을 만들어내는 연산"
-            }
-          },
-          {
-            "id": "8884d4c62ec21497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Literature/내적(Inner Product)-두 벡터를 곱해 스칼라(실수) 값을 만들어내는 연산.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "내적(Inner Product)-두 벡터를 곱해 스칼라(실수) 값을 만들어내는 연산"
-            }
-          },
-          {
-            "id": "8dbb4d5c398daece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/콘웨이의 법칙-어떤 조직의 소프트웨어 구조는 그 조직의 의사소통 구조를 반영한다.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "콘웨이의 법칙-어떤 조직의 소프트웨어 구조는 그 조직의 의사소통 구조를 반영한다"
-            }
-          },
-          {
-            "id": "53792fd9f4179c08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/커머디티화-제품이나 서비스가 상향평준화 되고 가격으로 경쟁한다.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "커머디티화-제품이나 서비스가 상향평준화 되고 가격으로 경쟁한다"
-            }
-          },
-          {
-            "id": "1112bf4f48e7ad0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/클래스 불균형-머신러닝시 데이터의 양이 현저하게 차이가 나는 상태.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "클래스 불균형-머신러닝시 데이터의 양이 현저하게 차이가 나는 상태"
-            }
-          },
-          {
-            "id": "17bcb251d2300ea1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/SMOTE-데이터불균형 해결을 위한 오버샘플링 기법.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SMOTE-데이터불균형 해결을 위한 오버샘플링 기법"
+              "title": "mTLS -서로의 신원을 동시에 확인하는 보안 방식"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -401,11 +261,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17bcb251d2300ea1",
+  "active": "f64d36fbf857daf0",
   "lastOpenFiles": [
-    "00_Inbox/클래스 불균형-머신러닝시 데이터의 양이 현저하게 차이가 나는 상태.md",
-    "00_Inbox/SMOTE-데이터불균형 해결을 위한 오버샘플링 기법.md",
+    "02_Permenent/gRPC-구글이 개발한 고성능 RPC.md",
+    "00_Inbox/mTLS -서로의 신원을 동시에 확인하는 보안 방식.md",
+    "00_Inbox/MSA Pattern - 하나의 애플리케이션을 작고 독립적인 서비스로 나누어 개발 운영하는 설계 방식.md",
+    "02_Permenent/QR코드-찍어라 연결하게.md",
+    "02_Permenent/페르소나- 가면, 외적 인격 이나 가상의 타인.md",
+    "02_Permenent/Anatomy-해부학, 구조와 형태.md",
+    "00_Inbox/인지 편향 - 생존을 위한 뇌의 진화로서의 체계적인 사고의 오류.md",
+    "02_Permenent/더닝 크루거 효과-능력이 없는 사람은 자신의 무능함을 깨닫는 능력조차 부족하다.md",
+    "01_Literature/CoT, ReAct, ToT - AI 모델의 추론 능력을 극대화 하기 위한 프롬프트 엔지니어링.md",
     "00_Inbox/커머디티화-제품이나 서비스가 상향평준화 되고 가격으로 경쟁한다.md",
+    "02_Permenent/스노비즘-속물근성.md",
+    "00_Inbox/SMOTE-데이터불균형 해결을 위한 오버샘플링 기법.md",
+    "88_Work/03_ETC",
+    "88_Work/02_Total",
+    "88_Work/01_AI",
+    "88_Work",
+    "00_Inbox/클래스 불균형-머신러닝시 데이터의 양이 현저하게 차이가 나는 상태.md",
     "00_Inbox/콘웨이의 법칙-어떤 조직의 소프트웨어 구조는 그 조직의 의사소통 구조를 반영한다.md",
     "01_Literature/내적(Inner Product)-두 벡터를 곱해 스칼라(실수) 값을 만들어내는 연산.md",
     "01_Literature/외적(Outer Product)-두 벡터를 곱해 새로운 벡터를 만드는 연산.md",
@@ -414,14 +288,12 @@
     "01_Literature/Overfitting-ML모델이 훈련 데이터에 너무 과하게 맞춰져 새로운 데이터가 들어왔을때 제대로 된 예측을 하지 못하는 상태.md",
     "02_Permenent/Ollama-사용자의 로컬 환경에 LLM을 쉽게 쓰게해주는 오픈 소스.md",
     "01_Literature/MoE-하나의 모델을 여러 전문가 모델로 나누어 필요시에 활성화 시키는 구조의 AI모델.md",
-    "01_Literature/Cot, ReAct, ToT - AI 모델의 추론 능력을 극대화 하기 위한 프롬프트 엔지니어링.md",
     "01_Literature/K-Fold Cross Validation - 데이터가 부족하거나 과적합되는 문제 해결.md",
     "01_Literature/Grounded Q&A - 신뢰할 수 있는 외부 소스를 근거(Grounding)로 삼아 답변하는 방식.md",
     "02_Permenent/Devil's Advocate - 일부러 반대 의견을 제시해서 논리적 허점, 위험요소 등을 검토하는 역할.md",
     "01_Literature/컨텍스트엔지니어링-프롬프트엔지니어링보다 한단계 더 나아간 개념.md",
     "01_Literature/COT- 추론 과정을 단계별로 생성하도록 유도하는 프로프트 엔지니어링.md",
     "99_Attachment",
-    "무제.md",
     "02_Permenent",
     "01_Literature",
     "00_Inbox"
