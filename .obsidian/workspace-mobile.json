@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3b9ed6b8067dea7",
+        "id": "10b9ad8772bd4278",
         "type": "tabs",
         "children": [
           {
-            "id": "98fd639012c3ddb2",
+            "id": "03ef4ce85973c809",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -185,8 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98fd639012c3ddb2",
+  "active": "03ef4ce85973c809",
   "lastOpenFiles": [
+    "/00_Inbox/인지 편향 - 생존을 위한 뇌의 진화로서의 체계적인 사고의 오류.md",
+    "00_Inbox/인지 편향 - 생존을 위한 뇌의 진화로서의 체계적인 사고의 오류.md",
+    "/00_Inbox",
     "00_Inbox/인지 편향 - 생존을 위한 뇌의 진화! 체계적인 사고의 오류.md",
     "03_Project/이론부터 실전까지 AI 에이전트 완벽 마스터.md",
     "01_Literature/내적(Inner Product)-두 벡터를 곱해 스칼라(실수) 값을 만들어내는 연산.md",
@@ -211,12 +214,9 @@
     "/02_Permenent/Anatomy-해부학, 구조와 형태.md",
     "02_Permenent/Anatomy-해부학, 구조와 형태.md",
     "/02_Permenent",
-    "/00_Inbox/인지 편향 - 생존을 위한 뇌의 진화로서의 체계적인 사고의 오류.md",
     "/00_Inbox/mTLS -서로의 신원을 동시에 확인하는 보안 방식.md",
     "/00_Inbox/SMOTE-데이터불균형 해결을 위한 오버샘플링 기법.md",
     "/00_Inbox/MSA Pattern - 하나의 애플리케이션을 작고 독립적인 서비스로 나누어 개발 운영하는 설계 방식.md",
-    "00_Inbox/MSA Pattern - 하나의 애플리케이션을 작고 독립적인 서비스로 나누어 개발 운영하는 설계 방식.md",
-    "/00_Inbox",
     "무제.canvas",
     "00_Inbox/무제.base",
     "02_Permenent",
