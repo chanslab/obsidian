@@ -25,8 +25,33 @@
 		* 병렬 코퍼스(Parallel) : 두개 이상의 언어가 대역(Translation) 관계로 구성, 기계 번역 학습
 		* 특수 목적 코퍼스(Specialized) : 의학, 법률, 금융 등 특정 분야의 용어 학습을 위해 수집된 데이터
 		* 역사적 코퍼스(Diachronic) : 시대별 언어 변화를 추적하기 위해 시간 순서대로 수집된 데이터
-* 토큰화(tokenization)
-* 토큰(token)
-* 텍스트 분할(text segmentation)
-* 텍스트 정규화(text normalization)
 
+* ## 토큰화(tokenization)
+	* 인공지능이 자연어를 처리하기 위해 거치는 가장 첫번째 단계
+	* 문장을 의미 있는 최소 단위인 **'토큰(token)'**으로 나누는 과정
+	* [토큰화의 주요단위]
+		* 단어 단위 토큰화(Word Tokenization) : 공백(space)를 기준으로 단어를 나눔
+			* 이해하기 쉽고 처리가 빠름
+			* 조사가 붙거나 'Apple', 'Apples'를 서로 다른 단어로 인식
+		* 문자 단위 토큰화(Character Tokenization) : 글자 하나하나를 토큰으로 나눔
+			* 모든 글자를 다루므로 모르는 단어([^1]OOV) 문제가 거의 없음
+			* 토큰 하나하나의 의미가 적고, 문장이 길어질수록 토큰 개수가 많아지면서 학습 효율이 떨어짐
+		* 서브워드 토큰화(Subword Tokenization) : 자주 쓰이는 글자 조합은 하나로 묶고, 드믈게 쓰이는 단어는 쪼개는 방식 
+			* 최신 ChatGPT 같은 AI모델들이 사용하는 방식([^2]BPE, WordPiece 등)
+			* 단어의 의미를 유지하면서, 처음 보는 단어도 유연하게 처리할 수 있음 (OOV 해결)
+
+* ## 텍스트 분할(text segmentation)
+	* 연속된 긴 텍스트를 의미 있는 물리적 또는 논리적 단위(문장, 문단, 주제 등)로 나누는 과정
+	* [분할 단위와 종류]
+		* 문장 분할(Sentence Segmentation)
+			* 텍스트를 개별 문장 단위로 나누는 작업
+			* 주로 마침표, 물음표, 느낌표를 기준으로 하지만 'U.S.A' 나 'Mr.Kim' 처럼 마침표가 포함된 약어 등을 구분해내는 정교함이 필요
+		* 단어/토큰 분할(Word Segmentation)
+			* 
+		* 주제 분할(Topic/Document Segmentation)
+		
+* ## 텍스트 정규화(text normalization)
+
+[^1]: Out of Vocabulary : 신조어, 오타, 전문용어, 고유 명사 같은 상황에서 발생
+
+[^2]: Byte Pair Encoding : 원래 데이터 압축을 위해 만들어진 기술, 자주 나오는 글자 쌍을 합치는 알고리즘

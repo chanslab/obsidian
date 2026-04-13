@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# IDEs
+.vscode/
+.idea/
+
+# Common Ignore
+node_modules/
+*.log
+
+# obsidian
+.obsidian
+.obsidian/workspace.json
