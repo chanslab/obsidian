@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ba000f7861a6da3c",
+        "id": "10b9ad8772bd4278",
         "type": "tabs",
         "children": [
           {
-            "id": "b7b5fc8cf2328bb8",
+            "id": "03ef4ce85973c809",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Project/이론부터 실전까지 AI 에이전트 완벽 마스터.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "이론부터 실전까지 AI 에이전트 완벽 마스터"
+              "title": "새 탭"
             }
           }
         ]
@@ -112,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "03_Project/이론부터 실전까지 AI 에이전트 완벽 마스터.md",
+            "file": "00_Inbox/인지 편향 - 생존을 위한 뇌의 진화! 체계적인 사고의 오류.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "03_Project/이론부터 실전까지 AI 에이전트 완벽 마스터.md",
+            "file": "00_Inbox/인지 편향 - 생존을 위한 뇌의 진화! 체계적인 사고의 오류.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "03_Project/이론부터 실전까지 AI 에이전트 완벽 마스터.md",
+            "file": "00_Inbox/인지 편향 - 생존을 위한 뇌의 진화! 체계적인 사고의 오류.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -163,6 +159,16 @@
           "icon": "git-pull-request",
           "title": "Source Control"
         }
+      },
+      {
+        "id": "45f1fb7be2ce16c5",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
       }
     ],
     "currentTab": 3
@@ -179,10 +185,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7b5fc8cf2328bb8",
+  "active": "03ef4ce85973c809",
   "lastOpenFiles": [
-    "01_Literature/내적(Inner Product)-두 벡터를 곱해 스칼라(실수) 값을 만들어내는 연산.md",
+    "/00_Inbox/인지 편향 - 생존을 위한 뇌의 진화로서의 체계적인 사고의 오류.md",
+    "00_Inbox/인지 편향 - 생존을 위한 뇌의 진화로서의 체계적인 사고의 오류.md",
+    "/00_Inbox",
+    "00_Inbox/인지 편향 - 생존을 위한 뇌의 진화! 체계적인 사고의 오류.md",
     "03_Project/이론부터 실전까지 AI 에이전트 완벽 마스터.md",
+    "01_Literature/내적(Inner Product)-두 벡터를 곱해 스칼라(실수) 값을 만들어내는 연산.md",
     "01_Literature/Overfitting-ML모델이 훈련 데이터에 너무 과하게 맞춰져 새로운 데이터가 들어왔을때 제대로 된 예측을 하지 못하는 상태.md",
     "Readme.md",
     "01_Literature/Cot, ReAct, ToT - AI 모델의 추론 능력을 극대화 하기 위한 프롬프트 엔지니어링.md",
@@ -190,7 +200,6 @@
     "03_Project",
     "/03_Project",
     "00_Inbox/커머디티화-제품이나 서비스가 상향평준화 되고 가격으로 경쟁한다.md",
-    "00_Inbox/인지 편향 - 생존을 위한 뇌의 진화로서의 체계적인 사고의 오류.md",
     "02_Permenent/페르소나- 가면, 외적 인격 이나 가상의 타인.md",
     "02_Permenent/스노비즘-속물근성.md",
     "02_Permenent/더닝 크루거 효과-능력이 없는 사람은 자신의 무능함을 깨닫는 능력조차 부족하다.md",
@@ -205,12 +214,9 @@
     "/02_Permenent/Anatomy-해부학, 구조와 형태.md",
     "02_Permenent/Anatomy-해부학, 구조와 형태.md",
     "/02_Permenent",
-    "/00_Inbox/인지 편향 - 생존을 위한 뇌의 진화로서의 체계적인 사고의 오류.md",
     "/00_Inbox/mTLS -서로의 신원을 동시에 확인하는 보안 방식.md",
     "/00_Inbox/SMOTE-데이터불균형 해결을 위한 오버샘플링 기법.md",
     "/00_Inbox/MSA Pattern - 하나의 애플리케이션을 작고 독립적인 서비스로 나누어 개발 운영하는 설계 방식.md",
-    "00_Inbox/MSA Pattern - 하나의 애플리케이션을 작고 독립적인 서비스로 나누어 개발 운영하는 설계 방식.md",
-    "/00_Inbox",
     "무제.canvas",
     "00_Inbox/무제.base",
     "02_Permenent",
