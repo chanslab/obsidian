@@ -1,4 +1,4 @@
-## 1. 말뭉치(Corpus)
+#말뭉치 #Corpus
 
 ### 1) 개념(Concept)
 
