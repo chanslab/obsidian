@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e48ad24df62466f9",
+        "id": "925c772c556d7a0c",
         "type": "tabs",
         "children": [
           {
-            "id": "4ce7b20f7ad6810e",
+            "id": "828a7fc06a1b0b7b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "02_Permenent/Markdown.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Markdown"
             }
           }
         ]
@@ -204,9 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ce7b20f7ad6810e",
+  "active": "828a7fc06a1b0b7b",
   "lastOpenFiles": [
     "88_Work/01_AI/2025_공공AX 프로젝트.md",
+    "02_Permenent/Markdown.md",
     "03_Project/AI를 위한 텍스트 표현-vector/S3-아마존 심플 스토리지 서비스(Amazon Simple Storage Service, S3).md",
     "03_Project/AI를 위한 텍스트 표현-vector/GPU 서빙(GPU Serving)과 추론 엔진(Inference Engine).md",
     "03_Project/AI를 위한 텍스트 표현-vector/API 서빙(API Serving).md",
@@ -232,7 +233,6 @@
     "00_Inbox/텍스트 정규화(text nomalization)-데이터 복잡도를 줄이는 전처리 단계.md",
     "00_Inbox/OOV-단어 사전에 없다.md",
     "00_Inbox/토큰화(tokenization)-인공지능이 자연어를 처리하기 위해 거치는 가장 첫번째 단계.md",
-    "00_Inbox/품사 태깅(POS tagging).md",
     "03_Project",
     "88_Work/03_ETC",
     "88_Work/02_Total",
