@@ -11,14 +11,14 @@
             "id": "4ce7b20f7ad6810e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "03_Project/AI를 위한 텍스트 표현-vector/S3-아마존 심플 스토리지 서비스(Amazon Simple Storage Service, S3).md",
-                "mode": "preview",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "S3-아마존 심플 스토리지 서비스(Amazon Simple Storage Service, S3)"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -206,6 +206,8 @@
   },
   "active": "4ce7b20f7ad6810e",
   "lastOpenFiles": [
+    "88_Work/01_AI/2025_공공AX 프로젝트.md",
+    "03_Project/AI를 위한 텍스트 표현-vector/S3-아마존 심플 스토리지 서비스(Amazon Simple Storage Service, S3).md",
     "03_Project/AI를 위한 텍스트 표현-vector/GPU 서빙(GPU Serving)과 추론 엔진(Inference Engine).md",
     "03_Project/AI를 위한 텍스트 표현-vector/API 서빙(API Serving).md",
     "03_Project/AI를 위한 텍스트 표현-vector/코사인 유사도(Cosine Similarity).md",
@@ -221,7 +223,6 @@
     "03_Project/AI를 위한 텍스트 표현-vector/001. 말뭉치(cORPUS)-거대한 텍스트 데이터의 집합.md",
     "03_Project/AI를 위한 텍스트 표현.md",
     "conflict-files-obsidian-git.md",
-    "03_Project/AI를 위한 텍스트 표현-vector/S3-아마존 심플 스토리지 서비스(Amazon Simple Storage Service, S3).md",
     "03_Project/AI를 위한 텍스트 표현-vector",
     "00_Inbox/인지 편향 - 생존을 위한 뇌의 진화! 체계적인 사고의 오류.md",
     "00_Inbox/더닝 크루거 효과.md",
@@ -232,7 +233,6 @@
     "00_Inbox/OOV-단어 사전에 없다.md",
     "00_Inbox/토큰화(tokenization)-인공지능이 자연어를 처리하기 위해 거치는 가장 첫번째 단계.md",
     "00_Inbox/품사 태깅(POS tagging).md",
-    "00_Inbox/말뭉치(corpus) - 언어의 규칙과 패턴 분석을 위한 텍스트 데이터의 모음.md",
     "03_Project",
     "88_Work/03_ETC",
     "88_Work/02_Total",
